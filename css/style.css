@@ -248,6 +248,7 @@ body {
     padding: 22px 13px ;
     text-transform: capitalize;
     background-color: #1F1F1F;
+    transition: 0.3s;
 }
 .welcome-item:hover{
     margin-top: -5px;
@@ -374,6 +375,7 @@ body {
     height: 200px;
     text-align: center;
     border-radius: 12px;
+    transition: 0.3s;
 }
 .featured-overlay{
     opacity: 0;    
@@ -475,6 +477,7 @@ body {
     border: 1px solid rgba(213, 213, 213, 0.151);
     border-radius: 10px;
     padding: 30px 25px 30px 10px ;
+    transition: 0.3s;
 }
 .offer-item:hover{
     margin-top: -5px;
@@ -729,6 +732,7 @@ body {
     background-color: #1F1F1F;
     border: 1px solid rgba(213, 213, 213, 0.151);
     border-radius: 15px;
+    transition: 0.3s;
 }
 .table-items:hover{
     margin-top: -5px;
@@ -916,6 +920,7 @@ body {
     border: 1px solid rgba(213, 213, 213, 0.151);
     border-radius: 15px;
     padding: 35px 17px;
+    transition: 0.3s;
 }
 .team-items:hover{
     margin-top: -5px;
@@ -1053,6 +1058,7 @@ body {
     border: 1px solid rgba(213, 213, 213, 0.151);
     border-radius: 15px;
     padding:  20px 26px;
+    transition: 0.3s;
 }
 .news-items:hover{
     margin-top: -5px;
@@ -1206,4 +1212,5 @@ body {
     margin-top: 17px;
     color: #1F1F1F;
     font-size: 14px;
+
 }
